@@ -1,0 +1,40 @@
+<html>
+<head><center>
+      <title>ticket booking</title>
+      <h1>TICKECT BOOKING</h1>
+     <style>
+     marquee
+      {
+       font-size:30px;
+        color:red;
+      }
+      fieldset
+      {
+       color:white;
+      }
+     </style>
+</head>
+<body> 
+     <script>
+     alert("this is raliyway resgistration");
+     </script>
+     <marquee direction="right">10% DISCOUNT ON SBI CARDS</marquee>
+      <form>
+      <fieldset style=" background-color:black; width:500px; height:270px;">
+      <fieldset style="width:400px; height:40px;">
+      <legend>ENTER NAME<sup style="color:red;">*</sup></legend>
+      <input style="width:350px; height:20px;" placeholder="ENTER NAME"></input>
+      </fieldset>
+      <fieldset style="width:400px; height:40px;">
+      <legend>ENTER EMAIL<sup style="color:red;">*</sup></legend>
+      <input style="width:350px; height:20px;" placeholder="ENTER EMAIL"></input>
+      </fieldset><br>
+      <input style="width:350px; height:20px;"></input><br></br>
+      <input style="width:350px; height:20px;"></input><br></br>
+      <input type="submit" value="register"></input>
+      <input type="reset" value="pay"></input></fieldset>
+
+</form>
+</body>
+</center>
+</html>
